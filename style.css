@@ -1,0 +1,13 @@
+nav{
+    background-color: beige;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: gray;
+    border-radius: 5px;
+}
+.card:hover{
+    opacity: 0.5;
+}
+.carousel-inner{
+    margin-top: 33px;
+}
